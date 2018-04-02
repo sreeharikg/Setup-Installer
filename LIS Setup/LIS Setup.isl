@@ -341,18 +341,20 @@
 		<col def="S0">ISDotNetInstallerArgsCommit</col>
 		<col def="S0">ISDotNetInstallerArgsUninstall</col>
 		<col def="S0">ISDotNetInstallerArgsRollback</col>
-		<row><td>ISX_DEFAULTCOMPONENT</td><td>{60EBBBA9-2CA3-4EBD-B353-CFD4D419C486}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{62973D99-975A-4669-BC91-3A30D141B518}</td><td>LOGS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT2</td><td>{2E9CCFB9-687F-4102-B769-084B6191A617}</td><td>ORDER</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT3</td><td>{0103568C-DEC8-4862-96E7-C2AD90A9D64C}</td><td>OTHER</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT4</td><td>{877CEA02-563D-4838-8E80-40C7D0845ACB}</td><td>RESULT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MetroFramework.Design.dll</td><td>{79D6CDCB-7052-4CDA-8ED3-AED21A987448}</td><td>INSTALLDIR</td><td>2</td><td/><td>metroframework.design.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MetroFramework.Fonts.dll</td><td>{1F35EFEF-95E2-4C16-9E84-E912B56FDB26}</td><td>INSTALLDIR</td><td>2</td><td/><td>metroframework.fonts.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MetroFramework.dll</td><td>{894CBFA2-17EB-406F-AB67-F48C33D6EAE2}</td><td>INSTALLDIR</td><td>2</td><td/><td>metroframework.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Mono.Security.dll</td><td>{62083011-2B59-42E5-AA2F-AE702EF9A145}</td><td>INSTALLDIR</td><td>2</td><td/><td>mono.security.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Numr.LIS.Machine.exe</td><td>{9D7857D2-AEAF-46BB-8984-B2C943E89A03}</td><td>INSTALLDIR</td><td>2</td><td/><td>numr.lis.machine.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Numr.LIS.Machine.vshost.exe</td><td>{BFBBAFCF-7EB6-4AFB-B32E-87FBE9A0EB94}</td><td>INSTALLDIR</td><td>2</td><td/><td>numr.lis.machine.vshost.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>npgsql.dll</td><td>{99E91937-9245-48F2-B25F-CF5FF8016C28}</td><td>INSTALLDIR</td><td>2</td><td/><td>npgsql.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT</td><td>{60EBBBA9-2CA3-4EBD-B353-CFD4D419C486}</td><td>INSTALLDIR</td><td>258</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{62973D99-975A-4669-BC91-3A30D141B518}</td><td>LOGS</td><td>258</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT2</td><td>{2E9CCFB9-687F-4102-B769-084B6191A617}</td><td>ORDER</td><td>258</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT3</td><td>{0103568C-DEC8-4862-96E7-C2AD90A9D64C}</td><td>OTHER</td><td>258</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT4</td><td>{877CEA02-563D-4838-8E80-40C7D0845ACB}</td><td>RESULT</td><td>258</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT5</td><td>{7342685C-8CD3-4427-BA9E-E8D4F9F2C09C}</td><td>CommonFiles64Folder</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT6</td><td>{5E215502-4A56-40C3-820F-C8482585F0F6}</td><td>ProgramFiles64Folder</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>MetroFramework.Design.dll</td><td>{79D6CDCB-7052-4CDA-8ED3-AED21A987448}</td><td>INSTALLDIR</td><td>258</td><td/><td>metroframework.design.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>MetroFramework.Fonts.dll</td><td>{1F35EFEF-95E2-4C16-9E84-E912B56FDB26}</td><td>INSTALLDIR</td><td>258</td><td/><td>metroframework.fonts.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>MetroFramework.dll</td><td>{894CBFA2-17EB-406F-AB67-F48C33D6EAE2}</td><td>INSTALLDIR</td><td>258</td><td/><td>metroframework.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Mono.Security.dll</td><td>{62083011-2B59-42E5-AA2F-AE702EF9A145}</td><td>INSTALLDIR</td><td>258</td><td/><td>mono.security.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Numr.LIS.Machine.exe</td><td>{9D7857D2-AEAF-46BB-8984-B2C943E89A03}</td><td>INSTALLDIR</td><td>258</td><td/><td>numr.lis.machine.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Numr.LIS.Machine.vshost.exe</td><td>{BFBBAFCF-7EB6-4AFB-B32E-87FBE9A0EB94}</td><td>INSTALLDIR</td><td>258</td><td/><td>numr.lis.machine.vshost.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>npgsql.dll</td><td>{99E91937-9245-48F2-B25F-CF5FF8016C28}</td><td>INSTALLDIR</td><td>258</td><td/><td>npgsql.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 	</table>
 
 	<table name="Condition">
@@ -1062,11 +1064,14 @@
 	<table name="CreateFolder">
 		<col key="yes" def="s72">Directory_</col>
 		<col key="yes" def="s72">Component_</col>
+		<row><td>CommonFiles64Folder</td><td>ISX_DEFAULTCOMPONENT5</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT1</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT2</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT3</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT4</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT5</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT6</td></row>
 		<row><td>INSTALLDIR</td><td>MetroFramework.Design.dll</td></row>
 		<row><td>INSTALLDIR</td><td>MetroFramework.Fonts.dll</td></row>
 		<row><td>INSTALLDIR</td><td>MetroFramework.dll</td></row>
@@ -1077,6 +1082,7 @@
 		<row><td>LOGS</td><td>ISX_DEFAULTCOMPONENT1</td></row>
 		<row><td>ORDER</td><td>ISX_DEFAULTCOMPONENT2</td></row>
 		<row><td>OTHER</td><td>ISX_DEFAULTCOMPONENT3</td></row>
+		<row><td>ProgramFiles64Folder</td><td>ISX_DEFAULTCOMPONENT6</td></row>
 		<row><td>RESULT</td><td>ISX_DEFAULTCOMPONENT4</td></row>
 	</table>
 
@@ -1195,7 +1201,7 @@
 		<row><td>System64Folder</td><td>TARGETDIR</td><td>.:System64</td><td/><td>0</td><td/></row>
 		<row><td>SystemFolder</td><td>TARGETDIR</td><td>.:System32</td><td/><td>0</td><td/></row>
 		<row><td>TARGETDIR</td><td/><td>SourceDir</td><td/><td>0</td><td/></row>
-		<row><td>TIATECH1</td><td>ProgramFilesFolder</td><td>Tiatech</td><td/><td>0</td><td/></row>
+		<row><td>TIATECH1</td><td>ProgramFiles64Folder</td><td>Tiatech</td><td/><td>0</td><td/></row>
 		<row><td>TempFolder</td><td>TARGETDIR</td><td>.:Temp</td><td/><td>0</td><td/></row>
 		<row><td>TemplateFolder</td><td>TARGETDIR</td><td>.:ShellNew</td><td/><td>0</td><td/></row>
 		<row><td>USERPROFILE</td><td>TARGETDIR</td><td>.:USERPR~1|UserProfile</td><td/><td>0</td><td/></row>
@@ -1899,6 +1905,8 @@
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT2</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT3</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT4</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT5</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT6</td></row>
 		<row><td>AlwaysInstall</td><td>MetroFramework.Design.dll</td></row>
 		<row><td>AlwaysInstall</td><td>MetroFramework.Fonts.dll</td></row>
 		<row><td>AlwaysInstall</td><td>MetroFramework.dll</td></row>
@@ -2078,6 +2086,8 @@
 		<row><td>ISX_DEFAULTCOMPONENT2</td><td/><td/><td>_D3452F4E_B788_46E5_9CAE_3E7909A86D2F_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT3</td><td/><td/><td>_3DC73B7E_3938_430D_9938_03A9B59D1BA5_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT4</td><td/><td/><td>_5AF50C7B_AFDA_42B5_8F99_CA80939D0BA4_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT5</td><td/><td/><td>_CAC987C7_0169_4ED6_8B95_FD2951E294E3_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT6</td><td/><td/><td>_52F30B4E_426E_4F22_B153_C5C3796A3C9B_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>MetroFramework.Design.dll</td><td/><td/><td>_38795F8D_56C4_4889_BA00_E8F27F2815A2_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>MetroFramework.Fonts.dll</td><td/><td/><td>_6C6357CA_82D3_469B_95CA_51D15212861B_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>MetroFramework.dll</td><td/><td/><td>_8D6ECB4D_FEBC_4EB7_8B53_61D466142331_FILTER</td><td/><td/><td/><td/></row>
@@ -2672,7 +2682,7 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>1033</td><td>Tiatech</td><td>0</td><td/><td>304484369</td></row>
+		<row><td>COMPANY_NAME</td><td>1033</td><td>Tiatech</td><td>0</td><td/><td>304515441</td></row>
 		<row><td>DN_AlwaysInstall</td><td>1033</td><td>Always Install</td><td>0</td><td/><td>304520880</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>1033</td><td>The color settings of your system are not adequate for running [ProductName].</td><td>0</td><td/><td>304520880</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION45FULL</td><td>1033</td><td>Microsoft .NET Framework 4.5 Full package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>304522960</td></row>
@@ -3775,8 +3785,8 @@
 		<row><td>IDS__TargetReq_DESC_PROCESSOR</td><td>1033</td><td>The processor is not adequate for running [ProductName].</td><td>0</td><td/><td>304520880</td></row>
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>304520880</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>304520880</td></row>
-		<row><td>ID_STRING1</td><td>1033</td><td>http://www.Tiatech.com</td><td>0</td><td/><td>304484369</td></row>
-		<row><td>ID_STRING2</td><td>1033</td><td>Tiatech</td><td>0</td><td/><td>304484369</td></row>
+		<row><td>ID_STRING1</td><td>1033</td><td>http://www.Tiatech.com</td><td>0</td><td/><td>304515441</td></row>
+		<row><td>ID_STRING2</td><td>1033</td><td>Tiatech</td><td>0</td><td/><td>304515441</td></row>
 		<row><td>ID_STRING3</td><td>1033</td><td>Launch Numr LIS.exe</td><td>0</td><td/><td>304482064</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>1033</td><td>This feature will remain uninstalled.</td><td>0</td><td/><td>304520880</td></row>
 	</table>
