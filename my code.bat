@@ -1,0 +1,1 @@
+REG ADD HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run /v numr /t REG_SZ /d "\"C:\Program Files\tiatech\numr\Numr.exe""
