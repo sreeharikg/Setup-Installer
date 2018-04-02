@@ -3906,9 +3906,9 @@
 		<col def="V0">Data</col>
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I2">ISIconIndex</col>
-		<row><td>ARPPRODUCTICON.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\setupicon.ico</td><td>0</td></row>
-		<row><td>Numr.LIS.Machine.e_2AE310FA22B445AFA3C9BB17657D15CF.exe</td><td/><td>D:\Projects\numr_renai\numr\Numr.LIS.Machine\bin\Debug\Numr.LIS.Machine.exe</td><td>0</td></row>
-		<row><td>Numr.LIS.Machine.e_A9DB413B4EAA4D779A320C031CC05806.exe</td><td/><td>D:\Projects\numr_renai\numr\Numr.LIS.Machine\bin\Debug\Numr.LIS.Machine.exe</td><td>0</td></row>
+		<row><td>ARPPRODUCTICON.exe</td><td/><td>C:\Users\Sreehari\Pictures\tiatech.ico</td><td>0</td></row>
+		<row><td>Numr.LIS.Machine.e_50627F0602114E49A9CEC5E824884DD0.exe</td><td/><td>D:\Projects\numr_renai\numr\Numr.LIS.Machine\bin\Debug\Numr.LIS.Machine.exe</td><td>0</td></row>
+		<row><td>Numr.LIS.Machine.e_A0D6AB424B094414831D2CF9C907F696.exe</td><td/><td>D:\Projects\numr_renai\numr\Numr.LIS.Machine\bin\Debug\Numr.LIS.Machine.exe</td><td>0</td></row>
 		<row><td>Numr.LIS.Machine.v_552DFFEF5ACC4D33941E74E9B7C3A81F.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
 	</table>
 
@@ -4042,7 +4042,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>ISTheme</td><td>InstallShield Blue.theme</td></row>
 		<row><td>ISUSLock</td><td>{2E1E943A-91B3-4A1B-96C6-466A8B734B98}</td></row>
 		<row><td>ISUSSignature</td><td>{9CF544D8-DF95-42B8-A6FF-768A8E70E4C2}</td></row>
-		<row><td>ISVisitedViews</td><td>viewAssistant</td></row>
+		<row><td>ISVisitedViews</td><td>viewAssistant,viewISToday,viewProject,viewUpgradePaths,viewUpdateService,viewAppFiles,viewObjects,viewRegistry,viewIniFiles,viewFileExtensions,viewSystemSearch,viewCustomActions,viewTextMessages,viewLearnMore</td></row>
 		<row><td>Limited</td><td>1</td></row>
 		<row><td>LockPermissionMode</td><td>1</td></row>
 		<row><td>MsiExecCmdLineOptions</td><td/></row>
@@ -4589,8 +4589,8 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S255">ISComments</col>
 		<col def="S255">ISShortcutName</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>Numr.LIS.Machine.exe</td><td>lisset_1_lis_setup</td><td>##IDS_SHORTCUT_DISPLAY_NAME1##</td><td>Numr.LIS.Machine.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>Numr.LIS.Machine.e_2AE310FA22B445AFA3C9BB17657D15CF.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>Numr.LIS.Machine.exe1</td><td>DesktopFolder</td><td>##IDS_SHORTCUT_DISPLAY_NAME1##</td><td>Numr.LIS.Machine.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>Numr.LIS.Machine.e_A9DB413B4EAA4D779A320C031CC05806.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>Numr.LIS.Machine.exe</td><td>lisset_1_lis_setup</td><td>##IDS_SHORTCUT_DISPLAY_NAME1##</td><td>Numr.LIS.Machine.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>Numr.LIS.Machine.e_50627F0602114E49A9CEC5E824884DD0.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>Numr.LIS.Machine.exe1</td><td>DesktopFolder</td><td>##IDS_SHORTCUT_DISPLAY_NAME1##</td><td>Numr.LIS.Machine.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>Numr.LIS.Machine.e_A0D6AB424B094414831D2CF9C907F696.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
 		<row><td>Numr.LIS.Machine.vshost.exe</td><td>lisset_1_lis_setup</td><td>##IDS_SHORTCUT_DISPLAY_NAME2##</td><td>Numr.LIS.Machine.vshost.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>Numr.LIS.Machine.v_552DFFEF5ACC4D33941E74E9B7C3A81F.exe</td><td>0</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
 
