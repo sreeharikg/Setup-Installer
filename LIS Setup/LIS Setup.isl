@@ -1176,7 +1176,7 @@
 		<row><td>FavoritesFolder</td><td>TARGETDIR</td><td>.:FAVORI~1|Favorites</td><td/><td>0</td><td/></row>
 		<row><td>FontsFolder</td><td>TARGETDIR</td><td>.:Fonts</td><td/><td>0</td><td/></row>
 		<row><td>GlobalAssemblyCache</td><td>TARGETDIR</td><td>.:Global~1|GlobalAssemblyCache</td><td/><td>0</td><td/></row>
-		<row><td>INSTALLDIR</td><td>MY_PRODUCT_NAME</td><td>.</td><td/><td>0</td><td/></row>
+		<row><td>INSTALLDIR</td><td>NUMR_LIS</td><td>.</td><td/><td>0</td><td/></row>
 		<row><td>ISCommonFilesFolder</td><td>CommonFilesFolder</td><td>Instal~1|InstallShield</td><td/><td>0</td><td/></row>
 		<row><td>ISMyCompanyDir</td><td>ProgramFilesFolder</td><td>MYCOMP~1|My Company Name</td><td/><td>0</td><td/></row>
 		<row><td>ISMyProductDir</td><td>ISMyCompanyDir</td><td>MYPROD~1|My Product Name</td><td/><td>0</td><td/></row>
@@ -1185,6 +1185,7 @@
 		<row><td>LocalAppDataFolder</td><td>TARGETDIR</td><td>.:LocalA~1|LocalAppData</td><td/><td>0</td><td/></row>
 		<row><td>MY_PRODUCT_NAME</td><td>TIATECH1</td><td>NUMRLI~1|Numr LIS</td><td/><td>0</td><td/></row>
 		<row><td>MyPicturesFolder</td><td>TARGETDIR</td><td>.:MyPict~1|MyPictures</td><td/><td>0</td><td/></row>
+		<row><td>NUMR_LIS</td><td>TIATECH</td><td>NUMRLI~1|Numr LIS</td><td/><td>0</td><td/></row>
 		<row><td>NetHoodFolder</td><td>TARGETDIR</td><td>.:NetHood</td><td/><td>0</td><td/></row>
 		<row><td>ORDER</td><td>LOGS</td><td>Order</td><td/><td>0</td><td/></row>
 		<row><td>OTHER</td><td>LOGS</td><td>Other</td><td/><td>0</td><td/></row>
@@ -1203,6 +1204,7 @@
 		<row><td>System64Folder</td><td>TARGETDIR</td><td>.:System64</td><td/><td>0</td><td/></row>
 		<row><td>SystemFolder</td><td>TARGETDIR</td><td>.:System32</td><td/><td>0</td><td/></row>
 		<row><td>TARGETDIR</td><td/><td>SourceDir</td><td/><td>0</td><td/></row>
+		<row><td>TIATECH</td><td>ProgramFiles64Folder</td><td>Tiatech</td><td/><td>0</td><td/></row>
 		<row><td>TIATECH1</td><td>ProgramFiles64Folder</td><td>Tiatech</td><td/><td>0</td><td/></row>
 		<row><td>TempFolder</td><td>TARGETDIR</td><td>.:Temp</td><td/><td>0</td><td/></row>
 		<row><td>TemplateFolder</td><td>TARGETDIR</td><td>.:ShellNew</td><td/><td>0</td><td/></row>
@@ -2687,7 +2689,7 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>1033</td><td>Tiatech</td><td>0</td><td/><td>304515441</td></row>
+		<row><td>COMPANY_NAME</td><td>1033</td><td>Tiatech Health Technologies Pvt Ltd.</td><td>0</td><td/><td>304485201</td></row>
 		<row><td>DN_AlwaysInstall</td><td>1033</td><td>Always Install</td><td>0</td><td/><td>304520880</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>1033</td><td>The color settings of your system are not adequate for running [ProductName].</td><td>0</td><td/><td>304520880</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION45FULL</td><td>1033</td><td>Microsoft .NET Framework 4.5 Full package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>304522960</td></row>
@@ -3790,8 +3792,8 @@
 		<row><td>IDS__TargetReq_DESC_PROCESSOR</td><td>1033</td><td>The processor is not adequate for running [ProductName].</td><td>0</td><td/><td>304520880</td></row>
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>304520880</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>304520880</td></row>
-		<row><td>ID_STRING1</td><td>1033</td><td>http://www.Tiatech.com</td><td>0</td><td/><td>304515441</td></row>
-		<row><td>ID_STRING2</td><td>1033</td><td>Tiatech</td><td>0</td><td/><td>304515441</td></row>
+		<row><td>ID_STRING1</td><td>1033</td><td>http://www.TiatechHealthTechnologiesPvtLtd..com</td><td>0</td><td/><td>304485201</td></row>
+		<row><td>ID_STRING2</td><td>1033</td><td>Tiatech Health Technologies Pvt Ltd.</td><td>0</td><td/><td>304485201</td></row>
 		<row><td>ID_STRING3</td><td>1033</td><td>Launch Numr LIS.exe</td><td>0</td><td/><td>304482064</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>1033</td><td>This feature will remain uninstalled.</td><td>0</td><td/><td>304520880</td></row>
 	</table>
