@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "LIS Setup", "LIS Setup\LIS Setup.isproj", "{E1B15442-56EC-4E00-B9E1-CFE0D32AF253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Default = CD_ROM|Default
+		DVD-5|Default = DVD-5|Default
+		SingleImage|Default = SingleImage|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1B15442-56EC-4E00-B9E1-CFE0D32AF253}.CD_ROM|Default.ActiveCfg = CD_ROM
+		{E1B15442-56EC-4E00-B9E1-CFE0D32AF253}.CD_ROM|Default.Build.0 = CD_ROM
+		{E1B15442-56EC-4E00-B9E1-CFE0D32AF253}.DVD-5|Default.ActiveCfg = DVD-5
+		{E1B15442-56EC-4E00-B9E1-CFE0D32AF253}.DVD-5|Default.Build.0 = DVD-5
+		{E1B15442-56EC-4E00-B9E1-CFE0D32AF253}.SingleImage|Default.ActiveCfg = SingleImage
+		{E1B15442-56EC-4E00-B9E1-CFE0D32AF253}.SingleImage|Default.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
