@@ -348,6 +348,7 @@
 		<row><td>ISX_DEFAULTCOMPONENT4</td><td>{877CEA02-563D-4838-8E80-40C7D0845ACB}</td><td>RESULT</td><td>258</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT5</td><td>{7342685C-8CD3-4427-BA9E-E8D4F9F2C09C}</td><td>CommonFiles64Folder</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT6</td><td>{5E215502-4A56-40C3-820F-C8482585F0F6}</td><td>ProgramFiles64Folder</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT7</td><td>{FB8DE3D7-A254-4E1C-88F7-6128DD2CB6B0}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>MetroFramework.Design.dll</td><td>{79D6CDCB-7052-4CDA-8ED3-AED21A987448}</td><td>INSTALLDIR</td><td>258</td><td/><td>metroframework.design.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>MetroFramework.Fonts.dll</td><td>{1F35EFEF-95E2-4C16-9E84-E912B56FDB26}</td><td>INSTALLDIR</td><td>258</td><td/><td>metroframework.fonts.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>MetroFramework.dll</td><td>{894CBFA2-17EB-406F-AB67-F48C33D6EAE2}</td><td>INSTALLDIR</td><td>258</td><td/><td>metroframework.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
@@ -1072,6 +1073,7 @@
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT4</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT5</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT6</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT7</td></row>
 		<row><td>INSTALLDIR</td><td>MetroFramework.Design.dll</td></row>
 		<row><td>INSTALLDIR</td><td>MetroFramework.Fonts.dll</td></row>
 		<row><td>INSTALLDIR</td><td>MetroFramework.dll</td></row>
@@ -1907,6 +1909,7 @@
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT4</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT5</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT6</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT7</td></row>
 		<row><td>AlwaysInstall</td><td>MetroFramework.Design.dll</td></row>
 		<row><td>AlwaysInstall</td><td>MetroFramework.Fonts.dll</td></row>
 		<row><td>AlwaysInstall</td><td>MetroFramework.dll</td></row>
@@ -1955,6 +1958,7 @@
 	<table name="ISAssistantTag">
 		<col key="yes" def="s72">Tag</col>
 		<col def="S255">Data</col>
+		<row><td>RegistryPageEnabled</td><td>Yes</td></row>
 	</table>
 
 	<table name="ISBillBoard">
@@ -2088,6 +2092,7 @@
 		<row><td>ISX_DEFAULTCOMPONENT4</td><td/><td/><td>_5AF50C7B_AFDA_42B5_8F99_CA80939D0BA4_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT5</td><td/><td/><td>_CAC987C7_0169_4ED6_8B95_FD2951E294E3_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT6</td><td/><td/><td>_52F30B4E_426E_4F22_B153_C5C3796A3C9B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT7</td><td/><td/><td>_52A54B87_C71C_4D30_A710_C491777A9981_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>MetroFramework.Design.dll</td><td/><td/><td>_38795F8D_56C4_4889_BA00_E8F27F2815A2_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>MetroFramework.Fonts.dll</td><td/><td/><td>_6C6357CA_82D3_469B_95CA_51D15212861B_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>MetroFramework.dll</td><td/><td/><td>_8D6ECB4D_FEBC_4EB7_8B53_61D466142331_FILTER</td><td/><td/><td/><td/></row>
@@ -4486,6 +4491,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="s72">Component_</col>
 		<col def="I4">ISAttributes</col>
 		<row><td>_33827756D9C7D6E1F123189E65FFB55E</td><td>1</td><td>Software\Microsoft\Windows\CurrentVersion\Run</td><td>numr</td><td>"C:\Program Files\tiatech\Numr LIS\Numr.LIS.Machine.exe"</td><td>ISX_DEFAULTCOMPONENT</td><td/></row>
+		<row><td>_342877FA16D91F1E5422B2C2176C2459</td><td>1</td><td>Software\Microsoft\Windows\CurrentVersion\Run</td><td>numr</td><td>"C:\Program Files\Tiatech\Numr LIS\Numr.LIS.Machine.exe"</td><td>ISX_DEFAULTCOMPONENT7</td><td/></row>
 	</table>
 
 	<table name="RemoveFile">
