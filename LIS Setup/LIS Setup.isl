@@ -1964,6 +1964,7 @@
 	<table name="ISAssistantTag">
 		<col key="yes" def="s72">Tag</col>
 		<col def="S255">Data</col>
+		<row><td>PROJECT_ASSISTANT_DEFAULT_FEATURE</td><td>AlwaysInstall</td></row>
 		<row><td>RegistryPageEnabled</td><td>Yes</td></row>
 	</table>
 
@@ -2694,7 +2695,7 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>1033</td><td>Tiatech Health Technologies Pvt Ltd.</td><td>0</td><td/><td>304485201</td></row>
+		<row><td>COMPANY_NAME</td><td>1033</td><td>Tiatech Health Technologies Pvt Ltd.</td><td>0</td><td/><td>1512500266</td></row>
 		<row><td>DN_AlwaysInstall</td><td>1033</td><td>Always Install</td><td>0</td><td/><td>304520880</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>1033</td><td>The color settings of your system are not adequate for running [ProductName].</td><td>0</td><td/><td>304520880</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION45FULL</td><td>1033</td><td>Microsoft .NET Framework 4.5 Full package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>304522960</td></row>
@@ -3797,8 +3798,8 @@
 		<row><td>IDS__TargetReq_DESC_PROCESSOR</td><td>1033</td><td>The processor is not adequate for running [ProductName].</td><td>0</td><td/><td>304520880</td></row>
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>304520880</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>304520880</td></row>
-		<row><td>ID_STRING1</td><td>1033</td><td>http://www.TiatechHealthTechnologiesPvtLtd..com</td><td>0</td><td/><td>304485201</td></row>
-		<row><td>ID_STRING2</td><td>1033</td><td>Tiatech Health Technologies Pvt Ltd.</td><td>0</td><td/><td>304485201</td></row>
+		<row><td>ID_STRING1</td><td>1033</td><td>http://www.TiatechHealthTechnologiesPvtLtd..com</td><td>0</td><td/><td>1512500266</td></row>
+		<row><td>ID_STRING2</td><td>1033</td><td>Tiatech Health Technologies Pvt Ltd.</td><td>0</td><td/><td>1512500266</td></row>
 		<row><td>ID_STRING3</td><td>1033</td><td>Launch Numr LIS.exe</td><td>0</td><td/><td>304482064</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>1033</td><td>This feature will remain uninstalled.</td><td>0</td><td/><td>304520880</td></row>
 	</table>
@@ -4497,8 +4498,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S0">Value</col>
 		<col def="s72">Component_</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>_33827756D9C7D6E1F123189E65FFB55E</td><td>1</td><td>Software\Microsoft\Windows\CurrentVersion\Run</td><td>numr</td><td>"C:\Program Files\tiatech\Numr LIS\Numr.LIS.Machine.exe"</td><td>ISX_DEFAULTCOMPONENT</td><td/></row>
-		<row><td>_342877FA16D91F1E5422B2C2176C2459</td><td>1</td><td>Software\Microsoft\Windows\CurrentVersion\Run</td><td>numr</td><td>"C:\Program Files\Tiatech\Numr LIS\Numr.LIS.Machine.exe"</td><td>ISX_DEFAULTCOMPONENT7</td><td/></row>
+		<row><td>_33827756D9C7D6E1F123189E65FFB55E</td><td>1</td><td>Software\Microsoft\Windows\CurrentVersion\Run</td><td>numr</td><td>"C:\Tiatech\Numr LIS\Numr.LIS.Machine.exe"</td><td>ISX_DEFAULTCOMPONENT</td><td/></row>
 	</table>
 
 	<table name="RemoveFile">
